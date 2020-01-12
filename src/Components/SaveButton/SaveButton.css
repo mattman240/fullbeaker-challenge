@@ -1,0 +1,16 @@
+.save-button {
+  border-radius: 20px;
+  border: 1px solid black;
+  cursor: pointer;
+  font-size: 25px;
+  height: fit-content;
+  margin: 10px 0;
+  outline: none;
+  padding: 2px 15px;
+  width: fit-content;
+}
+
+.save-button:hover {
+  background-color: black;
+  color: white;
+}
