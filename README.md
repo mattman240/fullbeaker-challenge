@@ -22,7 +22,7 @@ REACT_APP_PIXABAY_API_KEY=API_KEY
 
 Find the live demo [Here](https://full-beaker-challenge-mattm.herokuapp.com/)
 
-##Create React App Info
+## Create React App Info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
